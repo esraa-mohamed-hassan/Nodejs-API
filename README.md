@@ -24,11 +24,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 Several quick start options are available:
 
-- Clone the repo: 
-``` 
-https://github.com/CoderseaLTD/Nodejs-API.git 
-```
-
 - Install npm: 
 ```
 npm install
@@ -58,9 +53,6 @@ npm install --save multer
 ```
 npm install jsonwebtoken
 ```
-
-## API Documentation
-* [http://api.codersea.com:4000/](http://api.codersea.com:4000/)
    
 ## Built With
 
